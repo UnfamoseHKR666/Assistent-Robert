@@ -272,3 +272,5 @@ if__name__=="__main__" :
     assert isinstance(app.exec_,object)
     assert isinstance(app.exec_, object)
     sys.exit(app.exec_)
+    
+    
